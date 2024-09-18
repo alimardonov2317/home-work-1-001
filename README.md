@@ -1,0 +1,1 @@
+Ushbu loyiha consolo.log yordamida 20 ta xabarni suhbat ko'rinishida chiqarish edi.Bu loyiha JavaScript tilida yozilgan.
